@@ -9,7 +9,7 @@ I am a programmer pretty tech savvy and Enthusiastic about learning new technolo
 * 🌍  I'm based in Delhi , India
 * 🖥️  See my portfolio at [https://shantanusoam.github.io/Portfolio/](http://shantanusoam.github.io/Portfolio/)
 * ✉️  You can contact me at [shantanu.singh.soam@gmail.com](mailto:shantanu.singh.soam@gmail.com)
-* 🧠  I'm learning Sanity
+* 🧠  I'm learning Design Principles Now
 * ⚡  And Iam Spiderman AKA WebDevloper 😉
 
 ### Skills
