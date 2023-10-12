@@ -6,6 +6,32 @@ Fullstack WebDevloper
 
 I am a programmer pretty tech savvy and Enthusiastic about learning new technologies I'am currentely persuing MCA from CU My usual hobbies and passion contain coding, designing, learning new technological stuff, blogging, gaming and surfing some cosmos based stuff and watching anime over the internet . In my spare time, I read about Human psychology, cosmology, and I write stories.. And most important of all that I love solving real life problems from programming
 
+I am actively developing a cutting-edge web application using Next.js, showcasing expertise in both client-side and server-side components. The project integrates advanced technologies such as OpenAI API and Langchain, demonstrating proficiency in static and dynamic routing, server actions, middleware, and layouts. The app features seamless data storage through a serverless Prisma DB on PlanetScale, ensuring end-to-end encryption for user privacy. I have received valuable feedback and I am actively implementing improvements based on user suggestions.
+
+Key Highlights:
+
+Engineered a sophisticated, end-to-end Journal app using Next.js, highlighting mastery in client-side and server-side components.
+Implemented serverless Prisma DB on PlanetScale, ensuring seamless data storage with end-to-end encryption for journal entries.
+Integrated OpenAI API and Langchain for advanced functionalities, including sentiment analysis, summarization, and color-coding using AI algorithms.
+Implemented standard CRUD operations for users to manage journal entries efficiently.
+Developed personalized self-related queries through a vector database, enhancing user experience and engagement.
+Technological Proficiency:
+
+Frontend: Next.js, React.js, HTML, CSS, JavaScript
+Backend: Node.js, Express.js, Prisma
+Databases: Serverless Prisma DB on PlanetScale, Vector Database
+APIs: OpenAI API, Langchain
+Key Achievements:
+
+Engineered a secure and user-friendly authentication system.
+Implemented AI algorithms for sentiment analysis, summarization, and color-coding of journal entries.
+Ensured seamless data storage with end-to-end encryption for enhanced user privacy and security.
+Designed and implemented personalized self-related queries through a vector database.
+Actively incorporating user feedback to enhance the application's features and usability.
+Current Status:
+
+I am actively working on implementing improvements based on valuable user feedback, ensuring the app's functionality, security, and user experience are top-notch.
+
 * 🌍  I'm based in Delhi , India
 * 🖥️  See my portfolio at [https://shantanusoam.github.io/Portfolio/](http://shantanusoam.github.io/Portfolio/)
 * ✉️  You can contact me at [shantanu.singh.soam@gmail.com](mailto:shantanu.singh.soam@gmail.com)
